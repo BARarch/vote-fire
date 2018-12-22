@@ -1,7 +1,7 @@
 .credentials
-kijibase/kijibase/__pycache__
-kijibase/kijisearch/__pycache__
-kijibase/kijisearch/migrations/__pycache__
+votefire/votefire/__pycache__
+votefire/polls/__pycache__
+votefire/polls/migrations/__pycache__
 __pycache__/
 
 dfTest.py
