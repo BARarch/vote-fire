@@ -1,5 +1,6 @@
 .credentials
 votefire/votefire/__pycache__
+votefire/votefire/settings.py
 votefire/polls/__pycache__
 votefire/polls/migrations/__pycache__
 __pycache__/
